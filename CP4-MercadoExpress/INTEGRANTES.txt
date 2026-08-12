@@ -1,0 +1,15 @@
+Integrantes do Grupo - CP4 JATD Parte 1 (Mercado Express)
+========================================================
+
+Nome: Gabriel Robertoni Padilha
+RM: 566293
+
+Nome: Bruno Ferreira
+RM: 563489
+
+Nome: Leonardo Aragaki Rodrigues
+RM: 562944
+
+IDE utilizada: IntelliJ IDEA
+
+Link do GitHub: https://github.com/GabrielRobertoni/CP4-MercadoExpress-Java
