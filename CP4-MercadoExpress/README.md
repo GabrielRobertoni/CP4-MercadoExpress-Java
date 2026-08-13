@@ -2,8 +2,6 @@
 
 ## Checkpoint 4 — Parte 1: API e Deploy
 
-> *"Quem ouve, esquece. Quem vê, lembra. Quem faz, aprende."* — Provérbio chinês
-
 ---
 
 ## 1. Identificação
@@ -457,9 +455,13 @@ O projeto utiliza **Lombok** obrigatoriamente em todas as classes de modelo, DTO
 
 O projeto foi deployado na plataforma **Render** ([https://render.com](https://render.com) ) como Web Service Java. A URL pública da API está disponível no link abaixo:
 
-**URL da API em produção:** [https://mercado-express-cp4.onrender.com](https://mercado-express-cp4.onrender.com)
+**URL da API em produção:** [https://cp4-mercadoexpress-java.onrender.com](https://cp4-mercadoexpress-java.onrender.com)
 
 Configuração do banco de dados: Por questões de configuração e compatibilidade com o ambiente de deploy, as informações de conexão com o banco Oracle são definidas por meio das variáveis de ambiente DB_URL, DB_USERNAME e DB_PASSWORD. Para execução local, essas variáveis devem ser configuradas na IDE ou no sistema operacional. A aplicação utiliza a porta 8082 por padrão, podendo utilizar automaticamente a porta fornecida pelo ambiente de deploy através da variável PORT.
+
+Username: Rm566293
+Password: fiap26
+URL: jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL
 
 *(Substitua pela URL real do seu deploy )*
 
