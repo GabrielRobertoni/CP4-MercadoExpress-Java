@@ -457,6 +457,8 @@ O projeto foi deployado na plataforma **Render** ([https://render.com](https://r
 
 **URL da API em produção:** [https://cp4-mercadoexpress-java.onrender.com](https://cp4-mercadoexpress-java.onrender.com)
 
+**Endpoint principal da API:** [https://cp4-mercadoexpress-java.onrender.com/api/mercado](https://cp4-mercadoexpress-java.onrender.com/api/mercado)
+
 Configuração do banco de dados: Por questões de configuração e compatibilidade com o ambiente de deploy, as informações de conexão com o banco Oracle são definidas por meio das variáveis de ambiente DB_URL, DB_USERNAME e DB_PASSWORD. Para execução local, essas variáveis devem ser configuradas na IDE ou no sistema operacional. A aplicação utiliza a porta 8082 por padrão, podendo utilizar automaticamente a porta fornecida pelo ambiente de deploy através da variável PORT.
 
 Username: Rm566293
