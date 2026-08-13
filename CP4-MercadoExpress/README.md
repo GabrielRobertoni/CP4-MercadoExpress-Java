@@ -500,7 +500,6 @@ Ao iniciar a aplicação, 12 produtos de exemplo são inseridos automaticamente 
 
 | Print | Descrição |
 |  | --- |
-| ![img_6.png](img_6.png) | Configuração das dependências no Spring Initializr |
 | ![img_2.png](img_2.png) | POST — Criação de produto |
 | ![img.png](img.png) | GET — Listagem de todos os produtos |
 | ![img_1.png](img_1.png) | GET — Busca por ID |
