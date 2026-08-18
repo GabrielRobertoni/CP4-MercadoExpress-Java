@@ -465,8 +465,6 @@ Username: Rm566293
 Password: fiap26
 URL: jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL
 
-*(Substitua pela URL real do seu deploy )*
-
 ### Como gerar o JAR para deploy:
 
 ```bash
