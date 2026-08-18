@@ -8,17 +8,7 @@ import org.springframework.stereotype.Component;
 
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.*;
 
-/**
- * Assembler HATEOAS para Produto.
- * Nível de maturidade 3 (HATEOAS) - adiciona hiperlinks automáticos
- * nas respostas da API para navegação entre recursos.
- * 
- * Inclui links para:
- * - self (próprio recurso)
- * - list (listar todos)
- * - buscar por nome
- * - buscar por setor
- */
+
 @Component
 public class ProdutoModelAssembler extends RepresentationModelAssemblerSupport<Produto, ProdutoModel> {
 
